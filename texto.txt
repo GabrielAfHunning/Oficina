@@ -1,2 +1,2 @@
 Titulo: Título do texto
-Parágrafo:
+Parágrafo: Criando um texto muito elaborado.

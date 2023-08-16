@@ -1,2 +1,2 @@
-Titulo:
+Titulo: Título do texto
 Parágrafo:
